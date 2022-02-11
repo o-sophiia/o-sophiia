@@ -1,8 +1,6 @@
 - 2018 Feb, graduated from Yonsei University, sociology major.
 - 2021 Nov, wrote/directed 1st movie
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- YT LINK : https://youtu.be/MZfNRdwghyA
 
 <!---
 o-sophiia/o-sophiia is created for a movie repository. So all of histories and outputs will be archaived in `README.md` (this file), which appear on GitHub profile.
